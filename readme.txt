@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: Comments, Reply, Notification, Email,
 Requires at least: 3.0.1
 Tested up to: 3.7
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -21,7 +21,12 @@ Simply notifies comment-author via email if someone replies to his comment. Zero
 2. Upload the files to your plugins directory on your Server.
 3. Activate the plugin in your admin-backend.
 
+That's all!
+
 == Changelog ==
+
+= 1.0.1 =
+* Bugfix in Mail-Text fixed.
 
 = 1.0 =
 * first stable version.
