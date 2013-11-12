@@ -1,10 +1,10 @@
 === Comment Email Reply ===
 Contributors: kilozwo
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W487VEEQCRQ42
-Tags: Comments, Reply, Notification, Email,
+Tags: Comments, Reply, Notification, Email, Author, notify Comment-Author,
 Requires at least: 3.0.1
-Tested up to: 3.7
-Stable tag: 1.0.1
+Tested up to: 3.7.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -24,6 +24,9 @@ Simply notifies comment-author via email if someone replies to his comment. Zero
 That's all!
 
 == Changelog ==
+
+= 1.0.2 =
+* Fixed problems with html-encoding.
 
 = 1.0.1 =
 * Bugfix in Mail-Text fixed.
